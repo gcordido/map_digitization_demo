@@ -29,4 +29,7 @@ Here we can launch Azure ML Studio by clicking on **Launch Now** at the center o
 1. Once in ML Studio, we will navigate to **Notebooks**. Here you will see both **Sample** notebooks, and **My Files**.
 2. For the time being, we will choose **My Files**.
 3. Click on the upload button, and upload the Jupyter Notebook (.ipynb) file. 
-4. That's it for setting up our Azure ML Workspace!
+
+![Finish the Set Up](./assets/ml_studioupload.jpg)
+
+4. That's it for setting up our Azure ML Workspace! You may now [**go back**](./README.md).
