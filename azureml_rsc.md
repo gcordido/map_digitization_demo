@@ -7,6 +7,7 @@ This project was created with the use Azure ML notebooks in mind, as it aims to 
 
     <p align="center"> 
     ![Creating a resource](https://docs.microsoft.com/azure/includes/media/aml-create-in-portal/create-workspace.gif)
+    
     *Figure 1. Creating a ML resource. Source: [Azure ML Docs](https://docs.microsoft.com/azure/machine-learning/tutorial-1st-experiment-sdk-setup)*
     </p>
 
