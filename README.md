@@ -19,9 +19,6 @@ You can read more about the Action Mapping Project in their website here: https:
 ![Output Map Red](./sample/red_map3.jpg)
 *Red Shapes*
 
-![Output Map Green](./sample/green_map3.jpg)
-*Green Shapes*
-
 ## Setting Up
 
 This demo is built for use in Azure Machine Learning Notebooks, storing the data in Azure Storage. To create these resources, first you will need an Azure account.
