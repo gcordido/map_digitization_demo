@@ -1,7 +1,7 @@
 # Creating an Azure Blob Storage and Uploading our Data
 
 To store and access our data from Azure ML, we will be creating an Azure Storage Account. Since our dataset will be composed of images, we will be creating a Blob storage. A blob storage is optimized for storing unstructured data, that is data that does not adhere to a particular model.
-If you wish to read learn more about blob storage, you can go check [*Azure Blob Storage Documentation](https://docs.microsoft.com/azure/storage/blobs/storage-blobs-introduction?WT.mc_id=mapdigitdemo-github-cxa)
+If you wish to read learn more about blob storage, you can go check [**Azure Blob Storage Documentation**](https://docs.microsoft.com/azure/storage/blobs/storage-blobs-introduction?WT.mc_id=mapdigitdemo-github-cxa)
 
 
 ## Creating our storage account
@@ -39,4 +39,4 @@ If you wish to read learn more about blob storage, you can go check [*Azure Blob
 
 4. That's it! You are ready to move on with the project. 
 
-[**<< Go Back**](./README.md)
+[**<< Go Back**](./README.md#setting-up)
