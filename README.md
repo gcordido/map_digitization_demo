@@ -8,6 +8,17 @@ The research for this project started with the goal of assisting the **Action Ma
 
 You can read more about the Action Mapping Project in their website here: https://actionmappingproject.com/
 
+### Current Sample Input/Ouput
+
+![Input Map](./sample/map3.jpg)
+*Sample Map. Source: [Action Mapping Project](https://actionmappingproject.com/)*
+
+![Output Map Blue](./sample/blue_map3.jpg)
+*Blue Shapes*
+
+![Output Map Red](./sample/red_map3.jpg)
+*Red Shapes*
+
 ## Setting Up
 
 This demo is built for use in Azure Machine Learning Notebooks, storing the data in Azure Storage. To create these resources, first you will need an Azure account.
@@ -21,4 +32,17 @@ Once your account is created, the next step is creating an Azure ML resource, an
 
 ## Running the Demo
 
-To run this demo, you will need to upload the raw_data folder to your container. This sample folder contains 10 example maps from the AMP and a text file 'ref_coord.txt', which holds the GPS reference coordinates for the sample maps.
+To run this demo, you will first need to create a Data Store from our Blob Storage. You will also need access to your **Subscription ID, Storage Account Name, Blob Container Name and Account Key**.
+
+- For your **Subscription ID**, you can go to the [Azure Portal](https://portal.azure.com//?WT.mc_id=mapdigitdemo-github-cxa) and select **Subscriptions**. 
+
+- Likewise, accesing your **Storage Account** from the [Azure Portal](https://portal.azure.com//?WT.mc_id=mapdigitdemo-github-cxa), will let you find your **Access Key**. 
+
+    ![Access Key](./assets/stg_key.jpg)
+
+There is many ways to create a Data Store, which can be found here (I recommend following the steps under **Azure Machine Learning studio**):
+
+[**How to Access Data**](https://docs.microsoft.com/azure/machine-learning/how-to-access-data?WT.mc_id=mapdigitdemo-github-cxa)
+
+
+With the Data Store set up, we can move on to the [**code**](./digitization_demo.ipynb)
