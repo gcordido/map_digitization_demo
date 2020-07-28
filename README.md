@@ -11,13 +11,13 @@ You can read more about the Action Mapping Project in their website here: https:
 ### Current Sample Input/Ouput
 
 ![Input Map](./sample/map3.jpg)
-*Sample Map. Source: [Action Mapping Project](https://actionmappingproject.com/)*
+<div align="center">*Sample Map. Source: [Action Mapping Project](https://actionmappingproject.com/)*</div>
 
 ![Output Map Blue](./sample/blue_map3.jpg)
-*Blue Shapes*
+<div align="center">*Blue Shapes*</div>
 
 ![Output Map Red](./sample/red_map3.jpg)
-*Red Shapes*
+<div align="center">*Red Shapes*</div>
 
 ## Setting Up
 
