@@ -21,4 +21,18 @@ Once your account is created, the next step is creating an Azure ML resource, an
 
 ## Running the Demo
 
-To run this demo, you will need to upload the raw_data folder to your container. This sample folder contains 10 example maps from the AMP and a text file 'ref_coord.txt', which holds the GPS reference coordinates for the sample maps.
+To run this demo, you will first need to create a Data Store from our Blob Storage. You will also need access to your **Subscription ID, Storage Account Name, Blob Container Name and Account Key**.
+
+- For your **Subscription ID**, you can go to the [Azure Portal](https://portal.azure.com//?WT.mc_id=mapdigitdemo-github-cxa) and select **Subscriptions**. 
+
+- Likewise, accesing your **Storage Account** from the [Azure Portal](https://portal.azure.com//?WT.mc_id=mapdigitdemo-github-cxa), will let you find your **Access Key**. 
+
+    ![Access Key](./assets/stg_key.jpg)
+
+There is many ways to create a Data Store, which can be found here:
+
+[**How to Access Data**](https://docs.microsoft.com/azure/machine-learning/how-to-access-data?WT.mc_id=mapdigitdemo-github-cxa)
+
+I recommend following the steps under **Azure Machine Learning studio**. 
+
+With the Data Store set up, we can move on to the [**code**](./digitization_demo.ipynb)
