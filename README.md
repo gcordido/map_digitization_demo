@@ -8,6 +8,20 @@ The research for this project started with the goal of assisting the **Action Ma
 
 You can read more about the Action Mapping Project in their website here: https://actionmappingproject.com/
 
+### Current Sample Input/Ouput
+
+![Input Map](./sample/map3.jpg)
+*Sample Map. Source: [Action Mapping Project](https://actionmappingproject.com/)*
+
+![Output Map Blue](./sample/blue_map3.jpg)
+*Blue Shapes*
+
+![Output Map Red](./sample/red_map3.jpg)
+*Red Shapes*
+
+![Output Map Green](./sample/green_map3.jpg)
+*Green Shapes*
+
 ## Setting Up
 
 This demo is built for use in Azure Machine Learning Notebooks, storing the data in Azure Storage. To create these resources, first you will need an Azure account.
