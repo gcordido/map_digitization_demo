@@ -40,9 +40,10 @@ To run this demo, you will first need to create a Data Store from our Blob Stora
 
     ![Access Key](./assets/stg_key.jpg)
 
-There is many ways to create a Data Store, which can be found here (I recommend following the steps under **Azure Machine Learning studio**):
 
-[**How to Access Data**](https://docs.microsoft.com/azure/machine-learning/how-to-access-data?WT.mc_id=mapdigitdemo-github-cxa)
+There are many ways to create a Data Store, which can be found here (I recommend following the steps under **Azure Machine Learning studio**):
+
+[**How to Access Data**](https://docs.microsoft.com/azure/machine-learning/how-to-access-data?WT.mc_id=mapdigitdemo-github-cxa) on Microsoft Docs.
 
 
 With the Data Store set up, we can move on to the [**code**](./digitization_demo.ipynb)
