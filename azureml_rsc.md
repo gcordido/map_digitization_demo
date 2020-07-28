@@ -34,4 +34,4 @@ Here we can launch Azure ML Studio by clicking on **Launch Now** at the center o
 
 4. That's it for setting up our Azure ML Workspace!
 
-[**<< Go Back.**](./README.md)
+[**<< Go Back.**](./README.md#setting-up)
