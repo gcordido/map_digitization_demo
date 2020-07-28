@@ -6,7 +6,7 @@ If you wish to read learn more about blob storage, you can go check [*Azure Blob
 
 ## Creating our storage account
 
-1. Sign in to the [**Azure Portal**](https://portal.azure.com//?WT.mc_id=mapdigitdemo-github-cxa) using the credentials for the account you created.
+1. Sign in to the [**Azure Portal**](https://portal.azure.com/?WT.mc_id=mapdigitdemo-github-cxa) using the credentials for the account you created.
 
 2. In the upper-left corner, select the pluys symbol (**Create a resource**).
     ![Create a Resource](./assets/stg_rsc.jpg)

@@ -2,7 +2,7 @@
 
 This project was created with the use Azure ML notebooks in mind, as it aims to incorporate training models in the future. To bring this project to work, we must first create an Azure Machine Learning workspace.
 
-1. Sign in to the [**Azure Portal**](https://portal.azure.com//?WT.mc_id=mapdigitdemo-github-cxa) using the credentials for the account you created.
+1. Sign in to the [**Azure Portal**](https://portal.azure.com/?WT.mc_id=mapdigitdemo-github-cxa) using the credentials for the account you created.
 2. In the upper-left corner, select the pluys symbol (**Create a resource**)
 
 
